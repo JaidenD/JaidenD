@@ -1,3 +1,4 @@
+\usepackage{amsmath}
 Gravitation: $$G_{\mu \nu} = \Lambda g_{\mu \nu} = \frac{8\pi G}{c^4}T_{\mu \nu}$$\\
 YMMAH: $$d_A^* F_A = J(\psi)$$\\
 Matter: $$\slashed{\partial}_A \psi = m\psi$$
