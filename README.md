@@ -1,5 +1,7 @@
-Gravitation: $$G_{\mu \nu} = \Lambda g_{\mu \nu} = \frac{8\pi G}{c^4}T_{\mu \nu}$$\\
-YMMAH: $$d_A^* F_A = J(\psi)$$\\
+Gravitation: $$G_{\mu \nu} = \Lambda g_{\mu \nu} = \frac{8\pi G}{c^4}T_{\mu \nu}$$
+
+YMMAH: $$d_A^* F_A = J(\psi)$$
+
 Matter: $$\not{\partial}_A \psi = m\psi$$
 <!--
 **JaidenD/JaidenD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
