@@ -1,4 +1,4 @@
-$$test$$
+$$G_{\mu \nu} = \Lambda g_{\mu \nu} = \frac{8\pi G}{c^4}T_{\mu \nu}$$
 
 <!--
 **JaidenD/JaidenD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
